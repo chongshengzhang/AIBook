@@ -1,6 +1,6 @@
 # 《新一代人工智能 从深度学习到大模型》，机械工业出版社，张重生著
 
-本书知识体系图
+本书知识体系图  本书姊妹书籍链接    [《深度学习与人工智能实战》](https://dlbook.github.io/)
 
 ![image](https://github.com/user-attachments/assets/024c81c9-bb39-4916-811c-0acaab555f16)
 
