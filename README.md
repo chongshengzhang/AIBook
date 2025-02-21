@@ -2,6 +2,7 @@
 
 <br />
 *本书购买方式*       [京东](https://item.jd.com/14944580.html)
+
 <br />
 
 *本书姊妹书籍链接*    [《深度学习与人工智能实战》](https://dlbook.github.io/)
