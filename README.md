@@ -2,11 +2,19 @@
 
 本书姊妹书籍链接    [《深度学习与人工智能实战》](https://dlbook.github.io/)
 
-**本书知识体系图**
+
+<br />
+<br />
+<br />
+<br />
+
+
+## 本书知识体系图
 
 ![image](https://github.com/user-attachments/assets/024c81c9-bb39-4916-811c-0acaab555f16)
 
-本书课件资源（更新中）
+
+## 本书课件资源（更新中）
 
 ![8bd5e8e34bccd71d5b48975deca0644](https://github.com/user-attachments/assets/90171d7e-c4b2-4987-a42d-e4b4531098f0)
 
