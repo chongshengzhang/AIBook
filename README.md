@@ -14,11 +14,11 @@
 ![image](https://github.com/user-attachments/assets/024c81c9-bb39-4916-811c-0acaab555f16)
 
 
-## 本书课件资源（更新中）
+## 本书课件资源
 
 ![8bd5e8e34bccd71d5b48975deca0644](https://github.com/user-attachments/assets/90171d7e-c4b2-4987-a42d-e4b4531098f0)
 
-## 课件下载
+## 课件下载（更新中）
 
 ### 第三章  人工神经网络原理  
 
