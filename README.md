@@ -20,3 +20,4 @@
 
 第五章 常见卷积操作与神经网络
 
+[课件](https://github.com/chongshengzhang/AIBook/blob/main/5.%20%E5%B8%B8%E8%A7%81%E5%8D%B7%E7%A7%AF%E6%93%8D%E4%BD%9C%E4%B8%8E%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C(2025)(simplified).pdf)
