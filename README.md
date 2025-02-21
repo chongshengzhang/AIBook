@@ -12,4 +12,5 @@
 
 第三章  人工神经网络原理  
 
-[链接文本](./3. 人工神经网络基本原理(2025) (simplified).pdf)
+[课件](https://github.com/chongshengzhang/AIBook/blob/main/3.%20%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86(2025)%20(simplified).pdf)
+
